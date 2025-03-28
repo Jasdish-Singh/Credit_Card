@@ -1,4 +1,6 @@
 Credit Card Fraud Detection Report
+
+
 Project Overview
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset contains credit card transactions from European cardholders in September 2013. Out of 284,807 transactions, only 492 are fraudulent, making the dataset highly imbalanced.
 
